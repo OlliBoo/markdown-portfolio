@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Olli Lee 
+## Technical Writer
+### Master of MTI of GDUFS
