@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61)
